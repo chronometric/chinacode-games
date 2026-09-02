@@ -38,3 +38,9 @@ Ask ChinaCode staff for the current cash fee. Anyone quoting a number without a 
 - Several listings are commercial games or close lookalikes (NetEase, Gameloft, Clash of Clans-style). Treat those as catalog references only.
 
 Stills are from the public ChinaCode listing pages. Listing links and view counts can change on the source site.
+
+## Found game archive
+
+One extra found-game note is stored as a **password-protected zip**. The files inside cannot be opened without the password.
+
+Download: [plants-vs-insects.zip](plants-vs-insects.zip)
