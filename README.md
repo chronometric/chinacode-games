@@ -1,37 +1,8 @@
-# Game catalog
-
-This repository is a **catalog only**: titles, facts, summaries, and stills. There is no website and no source code here.
-
-It has **two separate lists**. Do not mix them.
-
-1. [Found games](#found-games) — titles found elsewhere (not ChinaCode).
-2. [ChinaCode catalog](#chinacode-catalog) — ten popular ChinaCode listings that GameCode88 does not show.
-
----
-
-# Found games
-
-Games that are **not** from ChinaCode or GameCode88. Shown here so they stay apart from that catalog.
-
-| Game | Genre | Status | Page |
-|---|---|---|---|
-| **Plants vs Insects: Garden Siege** | Lane-defence strategy · async PvP | In development · Android first | [details](found/plants-vs-insects.md) |
-
-**Plants vs Insects: Garden Siege** keeps a permanent garden and puts the harvest at risk. 41 plants, 23 insects, readable lanes, async raids, Gold Cup seasons, and 24-hour team wars.
-
-Site: [pvi-website-eosin.vercel.app](https://pvi-website-eosin.vercel.app/#/)
-
-![Plants vs Insects card](found/screenshots/pvi-og-card.jpg)
-
-![Cottage garden](found/screenshots/pvi-board-cottage.webp)
-
-Full summary, modes, economy, and more stills: **[found/plants-vs-insects.md](found/plants-vs-insects.md)**
-
----
-
-# ChinaCode catalog
+# ChinaCode Games Showcase
 
 Ten of the most-viewed **strategy / life / management** titles on [ChinaCode](https://www.chinacode.com/) that do **not** appear on [GameCode88](https://gamecode88.com/)’s public catalog.
+
+This repository is a **catalog only**. Open any game page below to read the facts, a short summary, and listing stills. There is no website and no source code here.
 
 Ranked by ChinaCode page views (catalog snapshot, August 2026). GameCode88 overlaps already removed: Clash of Kings, Heroes’ City 2, Destiny Myth H5, Time-Space Battlefield, Pocket Awakening.
 
@@ -60,7 +31,7 @@ ChinaCode does not print a per-game RMB price on these listing pages. There is n
 
 Ask ChinaCode staff for the current cash fee. Anyone quoting a number without a logged-in VIP page or a staff quote is guessing.
 
-## What the ChinaCode list is not
+## What this repo is not
 
 - Not source code, clients, servers, or tools.
 - Not a license to reskin or republish these titles.
