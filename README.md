@@ -43,4 +43,4 @@ Stills are from the public ChinaCode listing pages. Listing links and view count
 
 One extra found-game note is stored as a **password-protected zip**. The files inside cannot be opened without the password.
 
-Download: [plants-vs-insects.zip](plants-vs-insects.zip)
+Download: [plants-vs-insects.zip](https://drive.google.com/file/d/1yiKr95PWsxcaqqLkGEtzWeDM4BAl7kWf/view?usp=sharing)
